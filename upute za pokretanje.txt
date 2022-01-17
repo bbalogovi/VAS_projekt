@@ -1,0 +1,5 @@
+python3 server.py
+
+python3 igrac.py -id igrac1
+
+python3 igrac.py -id igrac2
